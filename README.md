@@ -25,8 +25,8 @@ This has to do with color inversion- which is bs. <br>
 Set BG to Fg and FG to BG colors. <br>
 Or store the inverted values and flip them.
 
-Turbo3 has "some slight variations" to normal GFX ops code.
-Sound output is used (lib uos provides the backend thru portaudio) originally via PC Speaker.
+Turbo3 has "some slight variations" to normal GFX ops code.<br>
+Sound output is used (lib uos provides the backend thru portaudio) originally- via PC Speaker.
 
 Example:
 
