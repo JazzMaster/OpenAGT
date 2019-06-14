@@ -30,9 +30,10 @@ Sound output is used (lib uos provides the backend thru portaudio) originally vi
 
 Example:
 
-*You blow on OBOE* [deep waaaah] - but its too filled with sand to play.
+        *You blow on OBOE* [deep waaaah] - but its too filled with sand to play.
 
-There are plenty of games made for the engine- but as Ive said- the engine needs a rewrite.
+
+There are plenty of games made for the engine- but as Ive said- the engine needs a rewrite.<br>
 
 So while we need to support a conversion process- or- the ability to read the old format:
 
@@ -53,7 +54,8 @@ Much like Borland and other projects- but with a few twists:
     Sources ARE available (users are expected to build them)
     Sources were limited to 8-bit DOS ERA (and compiler) limits
     
-The sources were released around 1994, IIRC- into the "public domain".
+The sources were released around 1994, IIRC- into the "public domain".<br>
+
 In some places-
 
     You are only allowed to charge XYZ and NO MORE for this
